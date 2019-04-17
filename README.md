@@ -1,3 +1,4 @@
+
 <h1>Trabalho 1: Carro (Python)</h1>
 
 Desse trabalho eu consegui entender a lógica rapidamente, if/else/for/while e como criar uma função já entendia.
@@ -17,3 +18,7 @@ Fiz ela praticamente junto a questão do carro, cerca de 4 horas(casa) e 40 minu
 <h1>Trabalho 3: Calculadora (Java)</h1>
 
 Optei por voltar um pouco mais nas atividades e fazer essa da calculadora em Java porque senti a necessidade de aprender como funciona a linguagem mais do que entender a lógica em si. Fiz o código todo, apenas com as operações soma e divisão. Fiz sozinha. Ainda estou tendo muita dificuldade em sair do Python para o Java, porém estou assistindo vídeos aulas paralelas da parte teórica para entender melhor a parte prática. Nessa questão aprendi como funcionam as classes, métodos, como montar o código parte por parte. Tenho dificuldade em acompanhar a turma porque não consigo aprender apenas com prática, tenho dificuldade em entender o que é cada "elemento" utilizado dentro do código. Fiz a questão durante uns 5 dias, cada dia tentei por algumas horas, cerca de 2/3 horas em cada dia. Entre 10 e 15 horas de tentativas. 
+
+<h1>Trabalho 4: Pet (Java)</h1>
+
+Fiz o código todo!(tô animada, agora vai!!) Fiz essa atividade sozinha acompanhando as duas videoaulas do professor. Para conseguir fazer isso, tive que me aprofundar nas aulas teóricas, usei esse canal aqui(https://www.youtube.com/watch?v=KlIL63MeyMY) para aprender os conceitos que não consegui absorver da apostila, vi só até a aula 4b de lá e já foi o suficiente para acompanhar o que o professor David Sena fez na aula de explicação do PET. Aprendi praticamente tudo, na atividade da calculadora eu fiz com muito mais dificuldade, deu pra entender o que tava fazendo, oficialmente entendi os conceitos do que usamos no código até aqui. Levei dois dias, total de 6 horas. 
