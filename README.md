@@ -22,3 +22,8 @@ Optei por voltar um pouco mais nas atividades e fazer essa da calculadora em Jav
 <h1>Trabalho 4: Pet (Java)</h1>
 
 Fiz o código todo!(tô animada, agora vai!!) Fiz essa atividade sozinha acompanhando as duas videoaulas do professor. Para conseguir fazer isso, tive que me aprofundar nas aulas teóricas, usei esse canal aqui(https://www.youtube.com/watch?v=KlIL63MeyMY) para aprender os conceitos que não consegui absorver da apostila, vi só até a aula 4b de lá e já foi o suficiente para acompanhar o que o professor David Sena fez na aula de explicação do PET. Aprendi praticamente tudo, na atividade da calculadora eu fiz com muito mais dificuldade, deu pra entender o que tava fazendo, oficialmente entendi os conceitos do que usamos no código até aqui. Levei dois dias, total de 6 horas. 
+
+<h1>Trabalho 5: Topique (Java)</h1>
+
+Fiz o código todo. Comecei o código sozinha, depois tive ajuda do meu amigo, Marcelo Gonçalves de dd(5º semestre), mas conclui sozinha. Aprendi a usar o ArrayList, consegui entender melhor como algumas funções do java se comportam (chamar os métodos e etc). A dificuldade que estou tendo é mais relação ao tempo para acompanhar a turma por causa do meu atraso nas entregas, mas até onde estou estudando estou entendendo. Demorei 6 horas seguidas para concluir a atividade, tudo em 1 dia só.
+
