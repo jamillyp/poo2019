@@ -27,3 +27,6 @@ Fiz o código todo!(tô animada, agora vai!!) Fiz essa atividade sozinha acompan
 
 Fiz o código todo. Comecei o código sozinha, depois tive ajuda do meu amigo, Marcelo Gonçalves de dd(5º semestre), mas conclui sozinha. Aprendi a usar o ArrayList, consegui entender melhor como algumas funções do java se comportam (chamar os métodos e etc). A dificuldade que estou tendo é mais relação ao tempo para acompanhar a turma por causa do meu atraso nas entregas, mas até onde estou estudando estou entendendo. Demorei 6 horas seguidas para concluir a atividade, tudo em 1 dia só.
 
+<h1>Trabalho 6: Conta Bancária (Java)</h1>
+
+Faltou a class operação. Fiz o código sozinha. Comecei ele faz uns 10 dias, mas não consegui na primeira tentativa e desisti, pulando pra questão do agiota(em andamento). O código ficou simples então não foi tão difícil de fazer. Ele faz todas as funções da conta, mas o extrato ficou "incorreto/incompleto". Para finalizar a questão demorei 4 horas seguidas + 3 horas da primeira tentativa = 7 horas no total.
