@@ -30,3 +30,7 @@ Fiz o código todo. Comecei o código sozinha, depois tive ajuda do meu amigo, M
 <h1>Trabalho 6: Conta Bancária (Java)</h1>
 
 Faltou a class operação. Fiz o código sozinha. Comecei ele faz uns 10 dias, mas não consegui na primeira tentativa e desisti, pulando pra questão do agiota(em andamento). O código ficou simples então não foi tão difícil de fazer. Ele faz todas as funções da conta, mas o extrato ficou "incorreto/incompleto". Para finalizar a questão demorei 4 horas seguidas + 3 horas da primeira tentativa = 7 horas no total.
+
+<h1>Trabalho 7: Agiota (Java)</h1>
+
+Fiz o código todo, tive ajuda de um amigo que faz redes de computadores pra finalizar a questão, comecei ela sozinha. Comecei faz um tempo, umas 3 semanas atrás, mas estava tendo dificuldade em entender o uso das excessões, para isso pesquisei na internet e vi parte da aula do professor no youtube. Ainda estou me sentindo atrasada em relação ao conteúdo dado em sala de aula porém estou me esforçando pra concluir as atividades e acompanhar a disciplina. Demorei umas 10 horas pra concluir a questão levando em consideração as tentativas.
