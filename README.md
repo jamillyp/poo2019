@@ -34,3 +34,7 @@ Faltou a class operação. Fiz o código sozinha. Comecei ele faz uns 15 dias, m
 <h1>Trabalho 7: Agiota (Java)</h1>
 
 Fiz o código todo, tive ajuda de um amigo que faz redes de computadores pra finalizar a questão, comecei ela sozinha. Comecei faz um tempo, umas 2/3 semanas atrás, mas estava tendo dificuldade em entender o uso das excessões, para isso pesquisei na internet e vi parte da aula do professor no youtube. Ainda estou me sentindo atrasada em relação ao conteúdo dado em sala de aula porém estou me esforçando pra concluir as atividades e acompanhar a disciplina. Demorei umas 10 horas pra concluir a questão levando em consideração as tentativas.
+
+<h1>Trabalho 7: Agiota com Mapa (Java)</h1>
+
+Fiz o código todo. Eu tenho essa questão incompleta faz mais ou menos 1 mês, estava dando erro em alguns métodos. Após estudar a apostila como sugerido pelo professor consegui voltar nela e finalizar. Demorei aproximadamente umas 10 horas para concluir a atividade.
