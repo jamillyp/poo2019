@@ -42,3 +42,7 @@ Fiz o código todo. Eu tenho essa questão incompleta faz mais ou menos 1 mês, 
 <h1>Trabalho 9: Conta da Apostila (Java)</h1>
 
 Fiz o código todo. Fiz sozinha. Não tive dificuldade nessa questão, porque na apostila explica bem como fazer, lá só não explica como pedir do usuário, foi o que fiz de diferente. Demorei 4 horas no total para fazer ela. Obs.: Fiz os exercícios da apostila, estou colocando aqui as que considerei mais a ver como as das atividades propostas pelo professor.
+
+<h1>Trabalho 10: Empresa da Apostila (Java)</h1>
+
+Fiz o código todo. Fiz sozinha. Já tinha feito ela antes mas sem pedir nada do usuário, só passando os parâmetros manualmente mesmo. Demorei umas 7 horas para concluir ela. Acredito que até aqui já deu para entender o conceito de polimorfismo e de herança tranquilamente. 
