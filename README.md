@@ -38,3 +38,7 @@ Fiz o código todo, tive ajuda de um amigo que faz redes de computadores pra fin
 <h1>Trabalho 8: Agiota com Mapa (Java)</h1>
 
 Fiz o código todo. Eu tenho essa questão incompleta faz mais ou menos 1 mês, estava dando erro em alguns métodos. Após estudar a apostila como sugerido pelo professor consegui voltar nela e finalizar. Demorei aproximadamente umas 10 horas para concluir a atividade.
+
+<h1>Trabalho 8: Conta da Apostila (Java)</h1>
+
+Fiz o código todo. Fiz sozinha. Não tive dificuldade nessa questão, porque na apostila explica bem como fazer, lá só não explica como pedir do usuário, foi o que fiz de diferente. Demorei 4 horas no total para fazer ela. Obs.: Fiz os exercícios da apostila, estou colocando aqui as que considerei mais a ver como as das atividades propostas pelo professor.
