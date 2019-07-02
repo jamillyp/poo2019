@@ -4,17 +4,6 @@ package sistemaempresa;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class ControleBonificacao{
-    private double totalDeBonificacao = 0;
-    
-    public void registra(Funcionario funcionario){
-        this.totalDeBonificacao += funcionario.getBonificacao();
-    }
-    public double getTotalDeBonificacao(){
-        return this.totalDeBonificacao;
-    }
-}
-
 class Funcionario{
     protected String nome;
     protected double salario;
