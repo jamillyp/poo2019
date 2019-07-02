@@ -46,3 +46,7 @@ Fiz o código todo. Fiz sozinha. Não tive dificuldade nessa questão, porque na
 <h1>Trabalho 10: Empresa da Apostila (Java)</h1>
 
 Fiz o código todo. Fiz sozinha. Já tinha feito ela antes mas sem pedir nada do usuário, só passando os parâmetros manualmente mesmo. Demorei umas 7 horas para concluir ela. Acredito que até aqui já deu para entender o conceito de polimorfismo e de herança tranquilamente. 
+
+<h1>Trabalho 11: Calcular Salario (Java)</h1>
+
+Fiz o código todo. Fiz sozinha me baseando no que aprendi na questão da empresa da apostila. Demorei umas 6 horas do dia de hoje, comecei de manhã e fiquei resolvendo uns errinhos que ficaram aparecendo quando eu colocava pra funcionar. Entendi herança e polimorfismo. Essa a lógica era até simples, mas eu me perdi mais nisso porque estava cansada. 
